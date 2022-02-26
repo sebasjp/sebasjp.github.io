@@ -12,3 +12,5 @@ This is a python module to build confidence intervals bootstrap given a confiden
 ## Installation
 
 `pip install -i https://test.pypi.org/simple/ bran`
+
+![]({{site.baseurl}}/assets/img/we-in-rest.jpg)
