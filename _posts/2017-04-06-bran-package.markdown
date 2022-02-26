@@ -16,3 +16,5 @@ This is a python module to build confidence intervals bootstrap given a confiden
 
 `pip install -i https://test.pypi.org/simple/ bran`
 
+## More information
+For more information about this project please visit the ![repo](https://github.com/sebasjp/bran)
